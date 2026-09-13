@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+	<OutputType>Exe</OutputType>
+	<TargetFramework>net472</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+	<ProjectReference Include="..\Hotel Management System\Hotel Management System.csproj" />
+	<None Include="..\Hotel Management System\App.config" Link="App.config">
+	  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	</None>
+  </ItemGroup>
+</Project>

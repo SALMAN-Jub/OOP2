@@ -1,0 +1,3 @@
+Changed database context to 'HotelManagementDB'.
+Msg 2627, Level 14, State 1, Server DESKTOP-8G4GBBR\SQLEXPRESS, Line 5
+Violation of UNIQUE KEY constraint 'UQ__Rooms__AE10E07ACDE5DDBC'. Cannot insert duplicate key in object 'dbo.Rooms'. The duplicate key value is (101).

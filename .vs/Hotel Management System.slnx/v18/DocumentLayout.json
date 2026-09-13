@@ -1,0 +1,767 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Services\\ReservationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Services\\ReservationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\RoomEditForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Forms\\RoomEditForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\ReservationEditForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Forms\\ReservationEditForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\RoomEditForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Forms\\RoomEditForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\SQL\\AddPasswordSalt.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQL\\AddPasswordSalt.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\SQL\\Tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQL\\Tables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\SQL\\CreateDatabase.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQL\\CreateDatabase.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\SQL\\SeedData.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQL\\SeedData.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\SQL\\StoredProcedures.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SQL\\StoredProcedures.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\SmokeTest\\SmokeTest.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SmokeTest\\SmokeTest.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\SmokeTest\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SmokeTest\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Services\\AuthenticationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Services\\AuthenticationService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Services\\RoomService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Services\\RoomService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Models\\Reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Models\\Reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\RoomsForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Forms\\RoomsForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\RoomsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Forms\\RoomsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\ReservationEditForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Forms\\ReservationEditForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Database\\DatabaseHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Database\\DatabaseHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\GuestEditForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Forms\\GuestEditForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\GuestsForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Forms\\GuestsForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\GuestsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Forms\\GuestsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\DashboardForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Forms\\DashboardForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Controls\\ReservationsControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Controls\\ReservationsControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\DashboardForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Forms\\DashboardForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Controls\\ReservationsControl.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Controls\\ReservationsControl.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\ReservationsForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Forms\\ReservationsForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\RoomTypesForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Forms\\RoomTypesForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\StaffForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Forms\\StaffForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\ServicesForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Forms\\ServicesForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\ServicesForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Forms\\ServicesForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\StaffForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Forms\\StaffForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\RoomTypesForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Forms\\RoomTypesForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\ReservationsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Forms\\ReservationsForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Forms\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Services\\GuestService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Services\\GuestService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\LoginForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Forms\\LoginForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Utilities\\ValidationHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Utilities\\ValidationHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Utilities\\Logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Utilities\\Logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Utilities\\SessionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Utilities\\SessionManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Models\\Room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Models\\Room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Models\\RoomType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Models\\RoomType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Models\\Guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Models\\Guest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Database\\DatabaseInitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Hotel Management System\\Database\\DatabaseInitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\hotel management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hotel management system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddPasswordSalt.sql",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\SQL\\AddPasswordSalt.sql",
+              "RelativeDocumentMoniker": "SQL\\AddPasswordSalt.sql",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\SQL\\AddPasswordSalt.sql",
+              "RelativeToolTip": "SQL\\AddPasswordSalt.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-06T06:57:46.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoomEditForm.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\RoomEditForm.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Forms\\RoomEditForm.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\RoomEditForm.cs",
+              "RelativeToolTip": "Hotel Management System\\Forms\\RoomEditForm.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAApwIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T06:28:58.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReservationEditForm.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\ReservationEditForm.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Forms\\ReservationEditForm.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\ReservationEditForm.cs",
+              "RelativeToolTip": "Hotel Management System\\Forms\\ReservationEditForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T06:37:14.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RoomEditForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\RoomEditForm.Designer.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Forms\\RoomEditForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\RoomEditForm.Designer.cs",
+              "RelativeToolTip": "Hotel Management System\\Forms\\RoomEditForm.Designer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAD4v6IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T06:29:25.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Services\\ReservationService.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Services\\ReservationService.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Services\\ReservationService.cs",
+              "RelativeToolTip": "Hotel Management System\\Services\\ReservationService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T19:27:28.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Program.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Program.cs",
+              "RelativeToolTip": "Hotel Management System\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T14:33:45.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Services\\RoomService.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Services\\RoomService.cs",
+              "RelativeToolTip": "Hotel Management System\\Services\\RoomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T16:13:06.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Models\\Reservation.cs",
+              "RelativeToolTip": "Hotel Management System\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T19:26:25.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Services\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Services\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Services\\AuthenticationService.cs",
+              "RelativeToolTip": "Hotel Management System\\Services\\AuthenticationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T14:32:34.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Models\\User.cs",
+              "RelativeToolTip": "Hotel Management System\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T14:32:04.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RoomsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\RoomsForm.Designer.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Forms\\RoomsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\RoomsForm.Designer.cs",
+              "RelativeToolTip": "Hotel Management System\\Forms\\RoomsForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T19:41:11.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RoomsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\RoomsForm.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Forms\\RoomsForm.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\RoomsForm.cs",
+              "RelativeToolTip": "Hotel Management System\\Forms\\RoomsForm.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T19:41:03.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReservationEditForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\ReservationEditForm.Designer.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Forms\\ReservationEditForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\ReservationEditForm.Designer.cs",
+              "RelativeToolTip": "Hotel Management System\\Forms\\ReservationEditForm.Designer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAABYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T06:36:47.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Database\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Database\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Database\\DatabaseHelper.cs",
+              "RelativeToolTip": "Hotel Management System\\Database\\DatabaseHelper.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAYwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T14:31:52.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GuestEditForm.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\GuestEditForm.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Forms\\GuestEditForm.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\GuestEditForm.cs",
+              "RelativeToolTip": "Hotel Management System\\Forms\\GuestEditForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T20:15:54.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GuestsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\GuestsForm.Designer.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Forms\\GuestsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\GuestsForm.Designer.cs",
+              "RelativeToolTip": "Hotel Management System\\Forms\\GuestsForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T19:41:43.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GuestsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\GuestsForm.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Forms\\GuestsForm.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\GuestsForm.cs",
+              "RelativeToolTip": "Hotel Management System\\Forms\\GuestsForm.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAowGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T19:41:28.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DashboardForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\DashboardForm.Designer.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Forms\\DashboardForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\DashboardForm.Designer.cs",
+              "RelativeToolTip": "Hotel Management System\\Forms\\DashboardForm.Designer.cs",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAowB8BAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T14:33:41.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ReservationsControl.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Controls\\ReservationsControl.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Controls\\ReservationsControl.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Controls\\ReservationsControl.cs",
+              "RelativeToolTip": "Hotel Management System\\Controls\\ReservationsControl.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAwwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T19:52:16.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\DashboardForm.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Forms\\DashboardForm.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\DashboardForm.cs",
+              "RelativeToolTip": "Hotel Management System\\Forms\\DashboardForm.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwDEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T14:33:32.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReservationsControl.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Controls\\ReservationsControl.Designer.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Controls\\ReservationsControl.Designer.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Controls\\ReservationsControl.Designer.cs",
+              "RelativeToolTip": "Hotel Management System\\Controls\\ReservationsControl.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T19:51:55.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ReservationsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\ReservationsForm.Designer.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Forms\\ReservationsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\ReservationsForm.Designer.cs",
+              "RelativeToolTip": "Hotel Management System\\Forms\\ReservationsForm.Designer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA7wEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T19:42:03.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RoomTypesForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\RoomTypesForm.Designer.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Forms\\RoomTypesForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\RoomTypesForm.Designer.cs",
+              "RelativeToolTip": "Hotel Management System\\Forms\\RoomTypesForm.Designer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T19:42:18.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "StaffForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\StaffForm.Designer.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Forms\\StaffForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\StaffForm.Designer.cs",
+              "RelativeToolTip": "Hotel Management System\\Forms\\StaffForm.Designer.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAkwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T19:42:41.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ServicesForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\ServicesForm.Designer.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Forms\\ServicesForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\ServicesForm.Designer.cs",
+              "RelativeToolTip": "Hotel Management System\\Forms\\ServicesForm.Designer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T19:42:56.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ServicesForm.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\ServicesForm.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Forms\\ServicesForm.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\ServicesForm.cs",
+              "RelativeToolTip": "Hotel Management System\\Forms\\ServicesForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T19:42:48.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "StaffForm.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\StaffForm.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Forms\\StaffForm.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\StaffForm.cs",
+              "RelativeToolTip": "Hotel Management System\\Forms\\StaffForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T19:42:24.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RoomTypesForm.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\RoomTypesForm.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Forms\\RoomTypesForm.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\RoomTypesForm.cs",
+              "RelativeToolTip": "Hotel Management System\\Forms\\RoomTypesForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T19:42:10.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ReservationsForm.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\ReservationsForm.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Forms\\ReservationsForm.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\ReservationsForm.cs",
+              "RelativeToolTip": "Hotel Management System\\Forms\\ReservationsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T19:41:52.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Forms\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\LoginForm.cs",
+              "RelativeToolTip": "Hotel Management System\\Forms\\LoginForm.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T14:33:01.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\SmokeTest\\Program.cs",
+              "RelativeDocumentMoniker": "SmokeTest\\Program.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\SmokeTest\\Program.cs",
+              "RelativeToolTip": "SmokeTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T19:29:22.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateDatabase.sql",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\SQL\\CreateDatabase.sql",
+              "RelativeDocumentMoniker": "SQL\\CreateDatabase.sql",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\SQL\\CreateDatabase.sql",
+              "RelativeToolTip": "SQL\\CreateDatabase.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-05T14:34:01.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SmokeTest.csproj",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\SmokeTest\\SmokeTest.csproj",
+              "RelativeDocumentMoniker": "SmokeTest\\SmokeTest.csproj",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\SmokeTest\\SmokeTest.csproj",
+              "RelativeToolTip": "SmokeTest\\SmokeTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-05T19:28:55.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "GuestService.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Services\\GuestService.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Services\\GuestService.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Services\\GuestService.cs",
+              "RelativeToolTip": "Hotel Management System\\Services\\GuestService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T16:13:37.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\App.config",
+              "RelativeDocumentMoniker": "Hotel Management System\\App.config",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\App.config",
+              "RelativeToolTip": "Hotel Management System\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-09-05T14:33:52.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tables.sql",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\SQL\\Tables.sql",
+              "RelativeDocumentMoniker": "SQL\\Tables.sql",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\SQL\\Tables.sql",
+              "RelativeToolTip": "SQL\\Tables.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-05T14:34:21.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StoredProcedures.sql",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\SQL\\StoredProcedures.sql",
+              "RelativeDocumentMoniker": "SQL\\StoredProcedures.sql",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\SQL\\StoredProcedures.sql",
+              "RelativeToolTip": "SQL\\StoredProcedures.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-05T14:34:27.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SeedData.sql",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\SQL\\SeedData.sql",
+              "RelativeDocumentMoniker": "SQL\\SeedData.sql",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\SQL\\SeedData.sql",
+              "RelativeToolTip": "SQL\\SeedData.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-05T14:34:43.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Forms\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Forms\\LoginForm.Designer.cs",
+              "RelativeToolTip": "Hotel Management System\\Forms\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T14:33:19.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ValidationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Utilities\\ValidationHelper.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Utilities\\ValidationHelper.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Utilities\\ValidationHelper.cs",
+              "RelativeToolTip": "Hotel Management System\\Utilities\\ValidationHelper.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T14:32:55.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Utilities\\Logger.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Utilities\\Logger.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Utilities\\Logger.cs",
+              "RelativeToolTip": "Hotel Management System\\Utilities\\Logger.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T14:32:48.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Utilities\\SessionManager.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Utilities\\SessionManager.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Utilities\\SessionManager.cs",
+              "RelativeToolTip": "Hotel Management System\\Utilities\\SessionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T14:32:37.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Models\\Room.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Models\\Room.cs",
+              "RelativeToolTip": "Hotel Management System\\Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T14:32:22.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RoomType.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Models\\RoomType.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Models\\RoomType.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Models\\RoomType.cs",
+              "RelativeToolTip": "Hotel Management System\\Models\\RoomType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T14:32:15.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Guest.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Models\\Guest.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Models\\Guest.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Models\\Guest.cs",
+              "RelativeToolTip": "Hotel Management System\\Models\\Guest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T14:32:12.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "DatabaseInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Database\\DatabaseInitializer.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Database\\DatabaseInitializer.cs",
+              "ToolTip": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Database\\DatabaseInitializer.cs",
+              "RelativeToolTip": "Hotel Management System\\Database\\DatabaseInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T14:32:00.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Shithel\\OneDrive\\Desktop\\Hotel Management System\\Hotel Management System\\Hotel Management System\\Form1.cs",
+              "RelativeDocumentMoniker": "Hotel Management System\\Form1.cs",
+              "ToolTip": "C:\\Users\\Shithel\\source\\repos\\Hotel Management System\\Hotel Management System\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Hotel Management System\\Hotel Management System\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T14:30:31.167Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

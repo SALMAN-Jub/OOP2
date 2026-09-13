@@ -1,0 +1,3 @@
+[2026-09-05 20:50:52] Starting SQL script run. Instance=.\SQLEXPRESS; Folder=C:\Users\Shithel\source\repos\Hotel Management System\SQL
+[2026-09-05 20:50:52] Running: C:\Users\Shithel\source\repos\Hotel Management System\SQL\CreateDatabase.sql
+[2026-09-05 20:50:53] sqlcmd failed for CreateDatabase.sql with exit code 1. See C:\Users\Shithel\source\repos\Hotel Management System\SQL\Logs\sql-run-20260905-205052.log

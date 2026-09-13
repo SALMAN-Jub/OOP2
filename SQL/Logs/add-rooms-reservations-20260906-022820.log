@@ -1,0 +1,26 @@
+﻿Changed database context to 'HotelManagementDB'.
+Msg 207, Level 16, State 1, Server DESKTOP-8G4GBBR\SQLEXPRESS, Line 3
+Invalid column name 'Floor'.
+Msg 207, Level 16, State 1, Server DESKTOP-8G4GBBR\SQLEXPRESS, Line 3
+Invalid column name 'IsAvailable'.
+Msg 207, Level 16, State 1, Server DESKTOP-8G4GBBR\SQLEXPRESS, Line 3
+Invalid column name 'CreatedAt'.
+Msg 207, Level 16, State 1, Server DESKTOP-8G4GBBR\SQLEXPRESS, Line 3
+Invalid column name 'Floor'.
+Msg 207, Level 16, State 1, Server DESKTOP-8G4GBBR\SQLEXPRESS, Line 3
+Invalid column name 'IsAvailable'.
+Msg 207, Level 16, State 1, Server DESKTOP-8G4GBBR\SQLEXPRESS, Line 3
+Invalid column name 'CreatedAt'.
+Msg 207, Level 16, State 1, Server DESKTOP-8G4GBBR\SQLEXPRESS, Line 3
+Invalid column name 'CheckOutDate'.
+Msg 207, Level 16, State 1, Server DESKTOP-8G4GBBR\SQLEXPRESS, Line 3
+Invalid column name 'ReservationNumber'.
+Msg 207, Level 16, State 1, Server DESKTOP-8G4GBBR\SQLEXPRESS, Line 3
+Invalid column name 'CreatedAt'.
+Msg 207, Level 16, State 1, Server DESKTOP-8G4GBBR\SQLEXPRESS, Line 3
+Invalid column name 'CheckOutDate'.
+Msg 207, Level 16, State 1, Server DESKTOP-8G4GBBR\SQLEXPRESS, Line 3
+Invalid column name 'ReservationNumber'.
+Msg 207, Level 16, State 1, Server DESKTOP-8G4GBBR\SQLEXPRESS, Line 3
+Invalid column name 'CreatedAt'.
+Rooms and Reservations added successfully!

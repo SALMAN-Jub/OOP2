@@ -1,0 +1,16 @@
+Database HotelManagementDB already exists.
+Changed database context to 'HotelManagementDB'.
+Table Users already exists.
+Table RoomTypes already exists.
+Table Rooms already exists.
+Table Guests already exists.
+Admin user already exists.
+CreateDatabase.sql completed.
+Table Reservations already exists.
+Msg 207, Level 16, State 1, Server DESKTOP-8G4GBBR\SQLEXPRESS, Line 9
+Invalid column name 'CheckIn'.
+Msg 207, Level 16, State 1, Server DESKTOP-8G4GBBR\SQLEXPRESS, Line 9
+Invalid column name 'CheckOut'.
+Msg 207, Level 16, State 1, Server DESKTOP-8G4GBBR\SQLEXPRESS, Line 9
+Invalid column name 'TotalAmount'.
+[2026-09-06 01:34:29] sqlcmd failed for CreateDatabase.sql with exit code 1. See C:\Users\Shithel\source\repos\Hotel Management System\SQL\Logs\sql-run-20260906-013428.log

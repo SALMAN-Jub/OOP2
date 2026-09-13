@@ -1,0 +1,19 @@
+C:\Users\Shithel\OneDrive\Desktop\Hotel Management System\Hotel Management System\SmokeTest\bin\Debug\net6.0\SmokeTest.exe
+C:\Users\Shithel\OneDrive\Desktop\Hotel Management System\Hotel Management System\SmokeTest\bin\Debug\net6.0\SmokeTest.deps.json
+C:\Users\Shithel\OneDrive\Desktop\Hotel Management System\Hotel Management System\SmokeTest\bin\Debug\net6.0\SmokeTest.runtimeconfig.json
+C:\Users\Shithel\OneDrive\Desktop\Hotel Management System\Hotel Management System\SmokeTest\bin\Debug\net6.0\SmokeTest.dll
+C:\Users\Shithel\OneDrive\Desktop\Hotel Management System\Hotel Management System\SmokeTest\bin\Debug\net6.0\SmokeTest.pdb
+C:\Users\Shithel\OneDrive\Desktop\Hotel Management System\Hotel Management System\SmokeTest\bin\Debug\net6.0\Hotel Management System.exe
+C:\Users\Shithel\OneDrive\Desktop\Hotel Management System\Hotel Management System\SmokeTest\bin\Debug\net6.0\Hotel Management System.pdb
+C:\Users\Shithel\OneDrive\Desktop\Hotel Management System\Hotel Management System\SmokeTest\bin\Debug\net6.0\Hotel Management System.exe.config
+C:\Users\Shithel\OneDrive\Desktop\Hotel Management System\Hotel Management System\SmokeTest\obj\Debug\net6.0\SmokeTest.csproj.AssemblyReference.cache
+C:\Users\Shithel\OneDrive\Desktop\Hotel Management System\Hotel Management System\SmokeTest\obj\Debug\net6.0\SmokeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shithel\OneDrive\Desktop\Hotel Management System\Hotel Management System\SmokeTest\obj\Debug\net6.0\SmokeTest.AssemblyInfoInputs.cache
+C:\Users\Shithel\OneDrive\Desktop\Hotel Management System\Hotel Management System\SmokeTest\obj\Debug\net6.0\SmokeTest.AssemblyInfo.cs
+C:\Users\Shithel\OneDrive\Desktop\Hotel Management System\Hotel Management System\SmokeTest\obj\Debug\net6.0\SmokeTest.csproj.CoreCompileInputs.cache
+C:\Users\Shithel\OneDrive\Desktop\Hotel Management System\Hotel Management System\SmokeTest\obj\Debug\net6.0\SmokeTest.csproj.Up2Date
+C:\Users\Shithel\OneDrive\Desktop\Hotel Management System\Hotel Management System\SmokeTest\obj\Debug\net6.0\SmokeTest.dll
+C:\Users\Shithel\OneDrive\Desktop\Hotel Management System\Hotel Management System\SmokeTest\obj\Debug\net6.0\refint\SmokeTest.dll
+C:\Users\Shithel\OneDrive\Desktop\Hotel Management System\Hotel Management System\SmokeTest\obj\Debug\net6.0\SmokeTest.pdb
+C:\Users\Shithel\OneDrive\Desktop\Hotel Management System\Hotel Management System\SmokeTest\obj\Debug\net6.0\SmokeTest.genruntimeconfig.cache
+C:\Users\Shithel\OneDrive\Desktop\Hotel Management System\Hotel Management System\SmokeTest\obj\Debug\net6.0\ref\SmokeTest.dll

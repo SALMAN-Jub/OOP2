@@ -1,0 +1,35 @@
+Changed database context to 'HotelManagementDB'.
+
+(8 rows affected)
+Msg 2628, Level 16, State 1, Server DESKTOP-8G4GBBR\SQLEXPRESS, Line 4
+String or binary data would be truncated in table 'HotelManagementDB.dbo.Staff', column 'Position'. Truncated value: 'প্রযুক্তিগত সহায়�'.
+The statement has been terminated.
+
+(5 rows affected)
+Msg 207, Level 16, State 1, Server DESKTOP-8G4GBBR\SQLEXPRESS, Line 10
+Invalid column name 'Floor'.
+Msg 207, Level 16, State 1, Server DESKTOP-8G4GBBR\SQLEXPRESS, Line 10
+Invalid column name 'IsAvailable'.
+Msg 207, Level 16, State 1, Server DESKTOP-8G4GBBR\SQLEXPRESS, Line 10
+Invalid column name 'CreatedAt'.
+Msg 207, Level 16, State 1, Server DESKTOP-8G4GBBR\SQLEXPRESS, Line 10
+Invalid column name 'Floor'.
+Msg 207, Level 16, State 1, Server DESKTOP-8G4GBBR\SQLEXPRESS, Line 10
+Invalid column name 'IsAvailable'.
+Msg 207, Level 16, State 1, Server DESKTOP-8G4GBBR\SQLEXPRESS, Line 10
+Invalid column name 'CreatedAt'.
+Msg 207, Level 16, State 1, Server DESKTOP-8G4GBBR\SQLEXPRESS, Line 3
+Invalid column name 'ReservationNumber'.
+Msg 207, Level 16, State 1, Server DESKTOP-8G4GBBR\SQLEXPRESS, Line 15
+Invalid column name 'CheckOutDate'.
+Msg 207, Level 16, State 1, Server DESKTOP-8G4GBBR\SQLEXPRESS, Line 15
+Invalid column name 'ReservationNumber'.
+Msg 207, Level 16, State 1, Server DESKTOP-8G4GBBR\SQLEXPRESS, Line 15
+Invalid column name 'CreatedAt'.
+Msg 207, Level 16, State 1, Server DESKTOP-8G4GBBR\SQLEXPRESS, Line 15
+Invalid column name 'CheckOutDate'.
+Msg 207, Level 16, State 1, Server DESKTOP-8G4GBBR\SQLEXPRESS, Line 15
+Invalid column name 'ReservationNumber'.
+Msg 207, Level 16, State 1, Server DESKTOP-8G4GBBR\SQLEXPRESS, Line 15
+Invalid column name 'CreatedAt'.
+Bangladesh hotel data seeded successfully!

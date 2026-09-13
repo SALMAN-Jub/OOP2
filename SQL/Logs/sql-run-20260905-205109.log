@@ -1,0 +1,9 @@
+Changed database context to 'HotelManagementDB'.
+
+(4 rows affected)
+
+(3 rows affected)
+
+(1 rows affected)
+[2026-09-05 20:51:13] Completed: SeedData.sql
+[2026-09-05 20:51:13] All scripts executed successfully. Log: C:\Users\Shithel\source\repos\Hotel Management System\SQL\Logs\sql-run-20260905-205109.log

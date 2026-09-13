@@ -1,0 +1,18 @@
+C:\Users\Shithel\source\repos\Hotel Management System\Hotel Management System\bin\Debug\Hotel Management System.exe.config
+C:\Users\Shithel\source\repos\Hotel Management System\Hotel Management System\bin\Debug\Hotel Management System.exe
+C:\Users\Shithel\source\repos\Hotel Management System\Hotel Management System\bin\Debug\Hotel Management System.pdb
+C:\Users\Shithel\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.csproj.AssemblyReference.cache
+C:\Users\Shithel\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.Properties.Resources.resources
+C:\Users\Shithel\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.csproj.GenerateResource.cache
+C:\Users\Shithel\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.csproj.CoreCompileInputs.cache
+C:\Users\Shithel\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.exe
+C:\Users\Shithel\source\repos\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.pdb
+C:\Users\Shithel\OneDrive\Desktop\Hotel Management System\Hotel Management System\Hotel Management System\bin\Debug\Hotel Management System.exe.config
+C:\Users\Shithel\OneDrive\Desktop\Hotel Management System\Hotel Management System\Hotel Management System\bin\Debug\Hotel Management System.exe
+C:\Users\Shithel\OneDrive\Desktop\Hotel Management System\Hotel Management System\Hotel Management System\bin\Debug\Hotel Management System.pdb
+C:\Users\Shithel\OneDrive\Desktop\Hotel Management System\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.csproj.AssemblyReference.cache
+C:\Users\Shithel\OneDrive\Desktop\Hotel Management System\Hotel Management System\Hotel Management System\obj\Debug\Hotel_Management_System.Properties.Resources.resources
+C:\Users\Shithel\OneDrive\Desktop\Hotel Management System\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.csproj.GenerateResource.cache
+C:\Users\Shithel\OneDrive\Desktop\Hotel Management System\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.csproj.CoreCompileInputs.cache
+C:\Users\Shithel\OneDrive\Desktop\Hotel Management System\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.exe
+C:\Users\Shithel\OneDrive\Desktop\Hotel Management System\Hotel Management System\Hotel Management System\obj\Debug\Hotel Management System.pdb
